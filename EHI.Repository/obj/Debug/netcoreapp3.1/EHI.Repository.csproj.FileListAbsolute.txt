@@ -1,0 +1,13 @@
+C:\Users\spande\source\repos\EHI\EHI.Repository\bin\Debug\netcoreapp3.1\EHI.Repository.deps.json
+C:\Users\spande\source\repos\EHI\EHI.Repository\bin\Debug\netcoreapp3.1\EHI.Repository.runtimeconfig.json
+C:\Users\spande\source\repos\EHI\EHI.Repository\bin\Debug\netcoreapp3.1\EHI.Repository.runtimeconfig.dev.json
+C:\Users\spande\source\repos\EHI\EHI.Repository\bin\Debug\netcoreapp3.1\EHI.Repository.dll
+C:\Users\spande\source\repos\EHI\EHI.Repository\bin\Debug\netcoreapp3.1\EHI.Repository.pdb
+C:\Users\spande\source\repos\EHI\EHI.Repository\bin\Debug\netcoreapp3.1\EHI.Domain.dll
+C:\Users\spande\source\repos\EHI\EHI.Repository\bin\Debug\netcoreapp3.1\EHI.Domain.pdb
+C:\Users\spande\source\repos\EHI\EHI.Repository\obj\Debug\netcoreapp3.1\EHI.Repository.csprojAssemblyReference.cache
+C:\Users\spande\source\repos\EHI\EHI.Repository\obj\Debug\netcoreapp3.1\EHI.Repository.AssemblyInfoInputs.cache
+C:\Users\spande\source\repos\EHI\EHI.Repository\obj\Debug\netcoreapp3.1\EHI.Repository.AssemblyInfo.cs
+C:\Users\spande\source\repos\EHI\EHI.Repository\obj\Debug\netcoreapp3.1\EHI.Repository.csproj.CopyComplete
+C:\Users\spande\source\repos\EHI\EHI.Repository\obj\Debug\netcoreapp3.1\EHI.Repository.dll
+C:\Users\spande\source\repos\EHI\EHI.Repository\obj\Debug\netcoreapp3.1\EHI.Repository.pdb

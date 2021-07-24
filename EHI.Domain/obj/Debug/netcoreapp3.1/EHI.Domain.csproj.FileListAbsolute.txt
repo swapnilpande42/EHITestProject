@@ -1,0 +1,7 @@
+C:\Users\spande\source\repos\EHI\EHI.Domain\bin\Debug\netcoreapp3.1\EHI.Domain.deps.json
+C:\Users\spande\source\repos\EHI\EHI.Domain\bin\Debug\netcoreapp3.1\EHI.Domain.dll
+C:\Users\spande\source\repos\EHI\EHI.Domain\bin\Debug\netcoreapp3.1\EHI.Domain.pdb
+C:\Users\spande\source\repos\EHI\EHI.Domain\obj\Debug\netcoreapp3.1\EHI.Domain.AssemblyInfoInputs.cache
+C:\Users\spande\source\repos\EHI\EHI.Domain\obj\Debug\netcoreapp3.1\EHI.Domain.AssemblyInfo.cs
+C:\Users\spande\source\repos\EHI\EHI.Domain\obj\Debug\netcoreapp3.1\EHI.Domain.dll
+C:\Users\spande\source\repos\EHI\EHI.Domain\obj\Debug\netcoreapp3.1\EHI.Domain.pdb
